@@ -1,3 +1,5 @@
+Hi, I'm Pablo Veran
+
 # 💫 About Me:
 I'm a third-year computer science student at Miami University, passionate about the realms of coding, app development, and web development.
 
